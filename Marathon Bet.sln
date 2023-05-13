@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon Bet", "Marathon Bet.csproj", "{C897D9DF-E825-4DE4-81B4-AD34EED1714C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C897D9DF-E825-4DE4-81B4-AD34EED1714C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C897D9DF-E825-4DE4-81B4-AD34EED1714C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C897D9DF-E825-4DE4-81B4-AD34EED1714C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C897D9DF-E825-4DE4-81B4-AD34EED1714C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5788776E-6B71-44D1-96BB-6477C575A2D7}
+	EndGlobalSection
+EndGlobal
